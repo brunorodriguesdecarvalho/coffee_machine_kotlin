@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Digits from 0 to 9 in a single line/Problems-Digits_from_0_to_9_in_a_single_line.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Digits from 0 to 9 in a single line/Problems-Digits_from_0_to_9_in_a_single_line.iml" group="Coffee_Machine/Problems-Digits_from_0_to_9_in_a_single_line" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Digits from 0 to 9 in a single line/Problems-Digits_from_0_to_9_in_a_single_line_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Digits from 0 to 9 in a single line/Problems-Digits_from_0_to_9_in_a_single_line_main.iml" group="Coffee_Machine/Problems-Digits_from_0_to_9_in_a_single_line" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Digits from 0 to 9 in a single line/Problems-Digits_from_0_to_9_in_a_single_line_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Digits from 0 to 9 in a single line/Problems-Digits_from_0_to_9_in_a_single_line_test.iml" group="Coffee_Machine/Problems-Digits_from_0_to_9_in_a_single_line" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Problems-Hello,_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Problems-Hello,_Kotlin.iml" group="Coffee_Machine/Problems-Hello,_Kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Problems-Hello,_Kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Problems-Hello,_Kotlin_main.iml" group="Coffee_Machine/Problems-Hello,_Kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Problems-Hello,_Kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Problems-Hello,_Kotlin_test.iml" group="Coffee_Machine/Problems-Hello,_Kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>

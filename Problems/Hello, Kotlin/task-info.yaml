@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "// write your answer here \n\nclass Task {\n  public static void main(String[]\
+    \ args) {\n    // put your code here\n  }\n}\n"
+  learner_created: false
+- name: src/Main.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4706
+status: Failed
+feedback:
+  message: 'Unknown language: java11. Please reload the page and try again'
+  time: Sat, 25 Jul 2020 00:53:38 UTC
+record: -1
